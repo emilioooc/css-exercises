@@ -1,0 +1,22 @@
+.numero-impar {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+#numero-2{
+    color: blue;
+    font-size: 32px;
+}
+
+.cool{
+    
+    font-size: 24px;
+}
+
+#numero-4 {
+    color: black;
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
